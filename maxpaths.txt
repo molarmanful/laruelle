@@ -1,0 +1,127 @@
+The directed path from 'auto-position' to 'experimentation' is:
+['auto-position', 'desire', 'non-psychoanalysis', 'generalization', 'fractality', 'experimentation']
+The distance between 'auto-position' and 'experimentation' in 5
+
+The directed path from 'dual' to 'experimentation' is:
+['dual', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'dual' and 'experimentation' in 5
+
+The directed path from 'occasion' to 'experimentation' is:
+['occasion', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'occasion' and 'experimentation' in 5
+
+The directed path from 'philosophical decision' to 'experimentation' is:
+['philosophical decision', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'philosophical decision' and 'experimentation' in 5
+
+The directed path from 'transcendental' to 'experimentation' is:
+['transcendental', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'transcendental' and 'experimentation' in 5
+
+The directed path from 'distance' to 'experimentation' is:
+['distance', 'philosophy', 'definition', 'generalization', 'fractality', 'experimentation']
+The distance between 'distance' and 'experimentation' in 5
+
+The directed path from 'science' to 'experimentation' is:
+['science', 'hypothesis', '(non-)one', 'generalization', 'fractality', 'experimentation']
+The distance between 'science' and 'experimentation' in 5
+
+The directed path from 'force (of) thought' to 'experimentation' is:
+['force (of) thought', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'force (of) thought' and 'experimentation' in 5
+
+The directed path from 'multiple' to 'experimentation' is:
+['multiple', 'philosophy', 'definition', 'generalization', 'fractality', 'experimentation']
+The distance between 'multiple' and 'experimentation' in 5
+
+The directed path from 'Other' to 'experimentation' is:
+['Other', 'non-ethics', 'definition', 'generalization', 'fractality', 'experimentation']
+The distance between 'Other' and 'experimentation' in 5
+
+The directed path from 'primacy' to 'experimentation' is:
+['primacy', 'desire', 'non-psychoanalysis', 'generalization', 'fractality', 'experimentation']
+The distance between 'primacy' and 'experimentation' in 5
+
+The directed path from 'break' to 'experimentation' is:
+['break', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'break' and 'experimentation' in 5
+
+The directed path from 'chora' to 'experimentation' is:
+['chora', 'philosophy', 'definition', 'generalization', 'fractality', 'experimentation']
+The distance between 'chora' and 'experimentation' in 5
+
+The directed path from 'given-without-givenness' to 'experimentation' is:
+['given-without-givenness', 'first name', 'definition', 'generalization', 'fractality', 'experimentation']
+The distance between 'given-without-givenness' and 'experimentation' in 5
+
+The directed path from 'mixture' to 'experimentation' is:
+['mixture', 'desire', 'non-psychoanalysis', 'generalization', 'fractality', 'experimentation']
+The distance between 'mixture' and 'experimentation' in 5
+
+The directed path from 'world' to 'experimentation' is:
+['world', 'first name', 'definition', 'generalization', 'fractality', 'experimentation']
+The distance between 'world' and 'experimentation' in 5
+
+The directed path from 'rule' to 'experimentation' is:
+['rule', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'rule' and 'experimentation' in 5
+
+The directed path from 'transcendental axiomatic' to 'experimentation' is:
+['transcendental axiomatic', 'first name', 'definition', 'generalization', 'fractality', 'experimentation']
+The distance between 'transcendental axiomatic' and 'experimentation' in 5
+
+The directed path from 'democracy' to 'experimentation' is:
+['democracy', 'philosophy', 'definition', 'generalization', 'fractality', 'experimentation']
+The distance between 'democracy' and 'experimentation' in 5
+
+The directed path from 'human' to 'experimentation' is:
+['human', 'desire', 'non-psychoanalysis', 'generalization', 'fractality', 'experimentation']
+The distance between 'human' and 'experimentation' in 5
+
+The directed path from 'reflection' to 'experimentation' is:
+['reflection', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'reflection' and 'experimentation' in 5
+
+The directed path from 'thought-world' to 'experimentation' is:
+['thought-world', 'desire', 'non-psychoanalysis', 'generalization', 'fractality', 'experimentation']
+The distance between 'thought-world' and 'experimentation' in 5
+
+The directed path from 'determination-in-the-last-instance' to 'experimentation' is:
+['determination-in-the-last-instance', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'determination-in-the-last-instance' and 'experimentation' in 5
+
+The directed path from 'performativity' to 'experimentation' is:
+['performativity', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'performativity' and 'experimentation' in 5
+
+The directed path from 'radical immanence' to 'experimentation' is:
+['radical immanence', 'hypothesis', '(non-)one', 'generalization', 'fractality', 'experimentation']
+The distance between 'radical immanence' and 'experimentation' in 5
+
+The directed path from 'relative autonomy' to 'experimentation' is:
+['relative autonomy', 'hypothesis', '(non-)one', 'generalization', 'fractality', 'experimentation']
+The distance between 'relative autonomy' and 'experimentation' in 5
+
+The directed path from 'reversibility' to 'experimentation' is:
+['reversibility', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'reversibility' and 'experimentation' in 5
+
+The directed path from 'non-sufficiency' to 'experimentation' is:
+['non-sufficiency', 'desire', 'non-psychoanalysis', 'generalization', 'fractality', 'experimentation']
+The distance between 'non-sufficiency' and 'experimentation' in 5
+
+The directed path from 'real essence' to 'experimentation' is:
+['real essence', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'real essence' and 'experimentation' in 5
+
+The directed path from 'solitude' to 'experimentation' is:
+['solitude', 'philosophy', 'definition', 'generalization', 'fractality', 'experimentation']
+The distance between 'solitude' and 'experimentation' in 5
+
+The directed path from 'science-of-men' to 'experimentation' is:
+['science-of-men', 'desire', 'non-psychoanalysis', 'generalization', 'fractality', 'experimentation']
+The distance between 'science-of-men' and 'experimentation' in 5
+
+The directed path from 'transcendental science' to 'experimentation' is:
+['transcendental science', 'non-philosophy', 'non-aesthetics', 'generalization', 'fractality', 'experimentation']
+The distance between 'transcendental science' and 'experimentation' in 5
